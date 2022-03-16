@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665024982859",
+    "project_id": "travel-app-e259d",
+    "storage_bucket": "travel-app-e259d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665024982859:android:d57002c38551284dcb82ce",
+        "android_client_info": {
+          "package_name": "com.example.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665024982859-l3a6n2ncp9ip6g4pd46gmq27cicaremn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnhDP8Dswpt2EdGGi4tEIQKpO85PxLvDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665024982859-l3a6n2ncp9ip6g4pd46gmq27cicaremn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
